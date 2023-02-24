@@ -1,6 +1,6 @@
 ![Header](https://github.com/Maromi1/Maromi1/blob/main/assets/%D0%91%D0%B5%D0%B7%D1%8B%D0%BC%D1%8F%D0%BD%D0%BD%D1%8B%D0%B9.png)
 ### I'm a QA Engineer
-### [My CV]()
+### [My CV](https://docs.google.com/document/d/1g3k9vxHNOYZhmwpb_x2CbLtB1Rm8lqKQVE1l5u0rgrQ/edit?usp=sharing)
 
 ### Language and Tools
 ![JIRA](https://img.shields.io/badge/-JIRA-000000?style=for-the-badge&logo=JIRA&logoColor=207CF7)
