@@ -1,5 +1,5 @@
 ![Header](https://github.com/Maromi1/Maromi1/blob/main/assets/%D0%91%D0%B5%D0%B7%D1%8B%D0%BC%D1%8F%D0%BD%D0%BD%D1%8B%D0%B9.png)
-### I'm a QA Engineer
+### I'm a beginner QA Engineer with great enthusiasm and responsibility, suitable for quality assurance of the released product
 ### [My CV](https://docs.google.com/document/d/1g3k9vxHNOYZhmwpb_x2CbLtB1Rm8lqKQVE1l5u0rgrQ/edit?usp=sharing)
 
 ### Language and Tools
