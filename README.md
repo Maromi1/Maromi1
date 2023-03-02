@@ -7,7 +7,7 @@
 ![POSTMAN](https://img.shields.io/badge/-POSTMAN-000000?style=for-the-badge&logo=POSTMAN&logoColor=)
 ![SWAGGER](https://img.shields.io/badge/-SWAGGER-000000?style=for-the-badge&logo=SWAGGER&logoColor=)
 ![GITHUB](https://img.shields.io/badge/-GITHUB-000000?style=for-the-badge&logo=GITHUB&logoColor=)
-[![MYSQL]](https://img.shields.io/badge/-MYSQL-000000?style=for-the-badge&logo=MYSQL&logoColor=)(https://docs.google.com/document/d/1J12tjHB_x62_Hl_yNm4dieT93SeohnlV7y03WHKEGic/edit?usp=sharing)
+[![MYSQL](https://img.shields.io/badge/-MYSQL-000000?style=for-the-badge&logo=MYSQL&logoColor=)](https://docs.google.com/document/d/1J12tjHB_x62_Hl_yNm4dieT93SeohnlV7y03WHKEGic/edit?usp=sharing)
 ![DEVTOOLS](https://img.shields.io/badge/-DEVTOOLS-000000?style=for-the-badge&logo=GOOGLECHROME&logoColor=)
 ![FIGMA](https://img.shields.io/badge/-FIGMA-000000?style=for-the-badge&logo=FIGMA&logoColor=)
 ![PYTHON](https://img.shields.io/badge/-PYTHON-000000?style=for-the-badge&logo=PYTHON&logoColor=)
@@ -22,4 +22,4 @@
 - [Tools](https://docs.google.com/document/d/1uns9SP2LM_IV4Kc6lNZGfmixwKwLl4C5EuEMeavFpI4/edit?usp=sharing)
 
 ### Social Media
-[![Header]](https://img.shields.io/badge/Linkedin-090909?style=for-the-badge&logo=Linkedin&logoColor=0073b1)](hhttps://www.linkedin.com/in/liana-grigoreva-290366268/)
+[![Header](https://img.shields.io/badge/Linkedin-090909?style=for-the-badge&logo=Linkedin&logoColor=0073b1)](https://www.linkedin.com/in/liana-grigoreva-290366268/)
