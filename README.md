@@ -12,6 +12,7 @@
 ![FIGMA](https://img.shields.io/badge/-FIGMA-000000?style=for-the-badge&logo=FIGMA&logoColor=)
 ![PYTHON](https://img.shields.io/badge/-PYTHON-000000?style=for-the-badge&logo=PYTHON&logoColor=)
 ![SOAPUI](https://img.shields.io/badge/-SOAPUI-000000?style=for-the-badge&logo=SOAPUI&logoColor=FCDC00)
+![QASE.IO](https://img.shields.io/badge/-QASE.IO-000000?style=for-the-badge&logo=QASE.IO&logoColor=FCDC00)
 
 ### Testing Documentation
 - [Requirements Testing](https://docs.google.com/document/d/1zvEfMVhu5fTxZHLKrYN7XEQBZ1OD7a5X22NWOYXspkA/edit?usp=sharing)
