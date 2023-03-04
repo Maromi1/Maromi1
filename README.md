@@ -3,16 +3,16 @@
 ### [My CV](https://drive.google.com/file/d/13J9HUA1evq4k1uJtLkbp76nFD8fhesTB/view?usp=share_link)
 
 ### Language and Tools
-![JIRA](https://img.shields.io/badge/-JIRA-000000?style=for-the-badge&logo=JIRA&logoColor=207CF7)
-![POSTMAN](https://img.shields.io/badge/-POSTMAN-000000?style=for-the-badge&logo=POSTMAN&logoColor=)
-![SWAGGER](https://img.shields.io/badge/-SWAGGER-000000?style=for-the-badge&logo=SWAGGER&logoColor=)
-![GITHUB](https://img.shields.io/badge/-GITHUB-000000?style=for-the-badge&logo=GITHUB&logoColor=)
+[![JIRA](https://img.shields.io/badge/-JIRA-000000?style=for-the-badge&logo=JIRA&logoColor=207CF7)](https://liana.atlassian.net/browse/JIRA-4?atlOrigin=eyJpIjoiOGMyNjA1MGQzMWRiNDYzYWJmMzkzNzM2ZTQ5MTk4MTAiLCJwIjoiaiJ9)
+[![POSTMAN](https://img.shields.io/badge/-POSTMAN-000000?style=for-the-badge&logo=POSTMAN&logoColor=)](https://docs.google.com/document/d/1ei5PMNrK9heYKgFLMTiZQBL0dzaTSUskqBApDL2Lhys/edit?usp=sharing)
+[![SWAGGER](https://img.shields.io/badge/-SWAGGER-000000?style=for-the-badge&logo=SWAGGER&logoColor=)](https://docs.google.com/document/d/1nkYE1_vUhZhnJVtd7UK_ZvxhbH3ACu3l5I_HXb70KXc/edit?usp=sharing)
+[![GITHUB](https://img.shields.io/badge/-GITHUB-000000?style=for-the-badge&logo=GITHUB&logoColor=)](https://docs.google.com/document/d/1QpJlvUfo4XzGCld_hc6K-wLBuGUuvsqzOcspdo50KVo/edit?usp=sharing)
 [![MYSQL](https://img.shields.io/badge/-MYSQL-000000?style=for-the-badge&logo=MYSQL&logoColor=)](https://docs.google.com/document/d/1J12tjHB_x62_Hl_yNm4dieT93SeohnlV7y03WHKEGic/edit?usp=sharing)
-![DEVTOOLS](https://img.shields.io/badge/-DEVTOOLS-000000?style=for-the-badge&logo=GOOGLECHROME&logoColor=)
-![FIGMA](https://img.shields.io/badge/-FIGMA-000000?style=for-the-badge&logo=FIGMA&logoColor=)
+[![DEVTOOLS](https://img.shields.io/badge/-DEVTOOLS-000000?style=for-the-badge&logo=GOOGLECHROME&logoColor=)](https://docs.google.com/document/d/1e6MW8qKgGSs-3FJMahFH5Q89vjI4p9FT_6wNwLjGYxs/edit?usp=sharing)
+[![FIGMA](https://img.shields.io/badge/-FIGMA-000000?style=for-the-badge&logo=FIGMA&logoColor=)](https://docs.google.com/document/d/1GbK4sJCqjNWT53NGN3a2Y1oMCgYKC7yJXu1Kaufpw0I/edit?usp=sharing)
 ![PYTHON](https://img.shields.io/badge/-PYTHON-000000?style=for-the-badge&logo=PYTHON&logoColor=)
-![SOAPUI](https://img.shields.io/badge/-SOAPUI-000000?style=for-the-badge&logo=SOAPUI&logoColor=FCDC00)
-![QASE.IO](https://img.shields.io/badge/-QASE.IO-000000?style=for-the-badge&logo=QASE.IO&logoColor=FCDC00)
+[![SOAPUI](https://img.shields.io/badge/-SOAPUI-000000?style=for-the-badge&logo=SOAPUI&logoColor=FCDC00)](https://docs.google.com/document/d/1pF_x-Bup334mQJzMjs2fpX8EAb_s6i8VTtGCvIiLFGw/edit?usp=sharing)
+[![QASE.IO](https://img.shields.io/badge/-QASE.IO-000000?style=for-the-badge&logo=QASE.IO&logoColor=FCDC00)](https://docs.google.com/document/d/1tEBIOMuNgkmwnE9EZ1_FsR8OURekHJMl_vIWPw6VOGc/edit?usp=sharing)
 
 ### Testing Documentation
 - [Requirements Testing](https://docs.google.com/document/d/1zvEfMVhu5fTxZHLKrYN7XEQBZ1OD7a5X22NWOYXspkA/edit?usp=sharing)
