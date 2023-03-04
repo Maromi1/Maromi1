@@ -1,6 +1,6 @@
 ![Header](https://github.com/Maromi1/Maromi1/blob/main/assets/%D0%91%D0%B5%D0%B7%D1%8B%D0%BC%D1%8F%D0%BD%D0%BD%D1%8B%D0%B9.png)
 ### I'm a beginner QA Engineer with great enthusiasm and responsibility, suitable for quality assurance of the released product
-### [My CV](file:///C:/Users/%D0%9B%D0%B8%D0%B0%D0%BD%D0%B0/Downloads/Liana's%20Resume.pdf)
+### [My CV](https://drive.google.com/file/d/13J9HUA1evq4k1uJtLkbp76nFD8fhesTB/view?usp=share_link)
 
 ### Language and Tools
 ![JIRA](https://img.shields.io/badge/-JIRA-000000?style=for-the-badge&logo=JIRA&logoColor=207CF7)
