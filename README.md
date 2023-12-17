@@ -20,6 +20,7 @@
 - [Test-Cases](https://docs.google.com/document/d/1mx6ootu1Y9YEl99qIXAurYp6bAoAxnAro10ZN1ibvIY/edit?usp=sharing)
 - [Test-Reports](https://docs.google.com/document/d/1TrHtAxqJiKBRgxpZ60zjjriInOV3nX7j3QVVO2N8vhI/edit?usp=sharing)
 - [Tools](https://docs.google.com/document/d/1uns9SP2LM_IV4Kc6lNZGfmixwKwLl4C5EuEMeavFpI4/edit?usp=sharing)
+- [Bug-Reports](https://docs.google.com/document/d/1UAptDX7RKNUVWm5A6wW_5AUVsS5AFJYoq2fEWYi-KiQ/edit?usp=sharing)
 
 ### Social Media
 [![Header](https://img.shields.io/badge/Linkedin-090909?style=for-the-badge&logo=Linkedin&logoColor=0073b1)](https://www.linkedin.com/in/liana-grigoreva-290366268/)
