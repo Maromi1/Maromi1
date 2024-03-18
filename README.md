@@ -16,12 +16,14 @@
 [![QASE.IO](https://img.shields.io/badge/-QASE.IO-000000?style=for-the-badge&logo=QASE.IO&logoColor=FCDC00)](https://docs.google.com/document/d/1tEBIOMuNgkmwnE9EZ1_FsR8OURekHJMl_vIWPw6VOGc/edit?usp=sharing)
 
 ### Testing Documentation
-- [Requirements Testing](https://docs.google.com/document/d/1zvEfMVhu5fTxZHLKrYN7XEQBZ1OD7a5X22NWOYXspkA/edit?usp=sharing)
+- [Bug-Reports](https://docs.google.com/document/d/1UAptDX7RKNUVWm5A6wW_5AUVsS5AFJYoq2fEWYi-KiQ/edit?usp=sharing)
 - [Checklists](https://docs.google.com/document/d/1Wp8h9ogpbXlP2zIo06hodm_hDPBqpytVJ81o-mAa3FA/edit?usp=sharing)
+- [Mobile Testing](https://docs.google.com/document/d/1dy5iTMSZzLrtkILiFJeYftMoiT2SEECPruDLumNeBnY/edit?usp=sharing)
+- [Requirements Testing](https://docs.google.com/document/d/1zvEfMVhu5fTxZHLKrYN7XEQBZ1OD7a5X22NWOYXspkA/edit?usp=sharing)
 - [Test-Cases](https://docs.google.com/document/d/1mx6ootu1Y9YEl99qIXAurYp6bAoAxnAro10ZN1ibvIY/edit?usp=sharing)
 - [Test-Reports](https://docs.google.com/document/d/1TrHtAxqJiKBRgxpZ60zjjriInOV3nX7j3QVVO2N8vhI/edit?usp=sharing)
 - [Tools](https://docs.google.com/document/d/1uns9SP2LM_IV4Kc6lNZGfmixwKwLl4C5EuEMeavFpI4/edit?usp=sharing)
-- [Bug-Reports](https://docs.google.com/document/d/1UAptDX7RKNUVWm5A6wW_5AUVsS5AFJYoq2fEWYi-KiQ/edit?usp=sharing)
+
 
 ### Social Media
 [![Header](https://img.shields.io/badge/Linkedin-090909?style=for-the-badge&logo=Linkedin&logoColor=0073b1)](https://www.linkedin.com/in/liana-grigoreva-290366268/)
